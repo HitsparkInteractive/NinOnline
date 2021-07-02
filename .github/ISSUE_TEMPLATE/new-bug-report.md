@@ -43,7 +43,6 @@ assignees: ''
 ## Error Logs
 
 <!-- If you see a crash log file in your client folder /data files/logs/ , please copy and paste it to where it says "PASTE HERE" below. -->
-<!-- Otherwise please go to Menu > About > Platform information and paste that information there instead. -->
 
 <details><summary>View details</summary>
 
