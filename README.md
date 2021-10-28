@@ -2,6 +2,9 @@
 # Nin Online Public Bug Tracking Repository
 This is where we handle public bug report submissions for [Nin Online](https://ninonline.org/).
 
+# This is old! We have moved...
+https://www.ninonline.org/forum/issues/
+
 # Read these guidelines before reporting a bug
 Many users file bugs which are useless because they don't contain enough information for us to do anything about them. Our policy is to close these bugs without investigating them. Please follow these guidelines to avoid having your bug closed and help make sure we can fix the bug you're reporting.
 
